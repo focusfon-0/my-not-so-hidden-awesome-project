@@ -1,0 +1,18 @@
+h1 {
+    font-size: 40px;
+    color: red;
+    font-weight: bold;
+}
+
+p#style1 {
+    background: yellow
+}
+
+p#style2 {
+    background: blue;
+}
+
+body {
+    background-size: 500px;
+    background-image: url(/img/gifje.gif);
+}
